@@ -1,0 +1,11 @@
+{
+  "name": "com.furrfield-studio.debug-windows",
+  "version": "1.0.0",
+  "displayName": "Debug Windows",
+  "author": {
+    "name": "FurrField Studio",
+    "email": "contact@furrfield.com",
+    "url": "https://furrfield.com"
+  },
+  "documentationUrl": ""
+}
