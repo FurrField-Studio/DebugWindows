@@ -1,7 +1,9 @@
 {
-    "name": "NewAssembly",
+    "name": "DebugWindows.Editor",
     "rootNamespace": "",
-    "references": ["GUID:2cd1516e5e005684ea2449ac45907fd9"],
+    "references": [
+        "GUID:2cd1516e5e005684ea2449ac45907fd9"
+    ],
     "includePlatforms": [
         "Editor"
     ],
